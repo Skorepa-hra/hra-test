@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stanoviště 1</title>
+</head>
+<body>
+    <h1>Stanoviště 1</h1>
+    <p>Přeštické prase je tradiční české plemeno prasat, které je známé svou vysokou kvalitou masa a vynikající chutí. Toto plemeno má dlouhou historii a je ceněno pro své vynikající vlastnosti, jako je dobrá plodnost, odolnost vůči nemocem a schopnost přizpůsobit se různým podmínkám chovu.</p>
+    <p>Přeštické prase je charakteristické svým černobílým zbarvením. Má černé skvrny na bílém podkladu, což je typický znak tohoto plemene. Jedná se o středně velké plemeno s dobře vyvinutým svalstvem a pevnou kostrou. Přeštické prase je známé svou vysokou plodností a dobrými mateřskými vlastnostmi. Prasnice mají obvykle velké vrhy a dobře se starají o svá mláďata.</p>
+    <p>Toto plemeno je odolné vůči nemocem a dobře se přizpůsobuje různým podmínkám chovu, což z něj činí ideální volbu pro chovatele. Přeštické prase je ceněno pro svou vysokou kvalitu masa, které je šťavnaté a chutné. Maso má vysoký obsah intramuskulárního tuku, což zajišťuje jeho šťavnatost a chuť. Mezi chovateli i spotřebiteli je oblíbené díky svým vynikajícím vlastnostem a schopnosti produkovat kvalitní maso.</p>
+    <h2>Vhodnost pro pastevní chov</h2>
+    <p>Přeštické prase je velmi vhodné pro pastevní chov díky své konstituční pevnosti a nenáročnosti na úroveň výživy. Toto plemeno je historicky předurčeno k pastevnímu chovu a dobře se přizpůsobuje různým podmínkám prostředí. Pastevní chov přeštických prasat může být efektivní alternativou k tradičnímu stájovému chovu, protože umožňuje zvířatům přirozený pohyb a přístup k čerstvé pastvě.</p>
+    <h2>Typické znaky</h2>
+    <ul>
+        <li><strong>Zbarvení:</strong> Černostrakaté, s černými skvrnami na bílém podkladu.</li>
+        <li><strong>Velikost:</strong> Střední tělesný rámec, kanci dosahují hmotnosti 260-280 kg, prasnice 215-235 kg.</li>
+        <li><strong>Plodnost:</strong> Vysoká plodnost, prasnice mají obvykle 10 až 16 selat.</li>
+        <li><strong>Odolnost:</strong> Vysoká odolnost vůči nemocem a stresu.</li>
+        <li><strong>Kvalita masa:</strong> Vysoký obsah intramuskulárního tuku, což zajišťuje šťavnatost a chuť masa.</li>
+        <li><strong>Konstituce:</strong> Tvrdá konstituce a přizpůsobivost na vnější podmínky.</li>
+    </ul>
+    <h2>Přehrát nahrávku:</h2>
+    <audio controls>
+        <source src="Vocaroo 10 Feb 2025 20_19_51 GMT+0100 16Yp8wEDKXI9.mp3" type="audio/mpeg">
+        Váš prohlížeč nepodporuje přehrávání zvuku.
+    </audio>
+    <p><a href="index.html">Zpět na hlavní stránku</a></p>
+</body>
+</html>
